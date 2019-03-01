@@ -1,0 +1,119 @@
+{
+    "activities": [],
+    "learningObjectives": [],
+    "overview": [
+        "<ul style=list-style-type:none><li>Unit : 9A<ol type=1><li>Models of vision</li><li>Neocognitron</li><li>Mathematical details of CNNs, Alexnet, Inception, VGG</li></li></ol><li>Unit 9B: <ol type=1><li>Architecture</li><li>Convolution, Pooling, Normalization</li><li>Training strategies</li><li>Visualizing and understanding convolutional networks</li><li>Some MORE well-known convolution networks (LeNet/ZFNet/GoogleNet)</li></li></ol><li>Unit 10: <ol type=1><li>Recurrent Neural Networks (RNNs)</li><li>Modeling series</li><li>Back propogation through time</li><li>Bidirectional RNNs</li></li></ol><li>Unit : 11 <ol type=1><li>Stability</li><li>Exploding/vanishing gradients</li><li>Long Short-Term Memory Units (LSTMs) and variants</li><li>Resnets</li></li></ol><li>Unit : 12 <ol type=1><li>Loss functions for recurrent networks</li><li>Sequence Prediction</li></li></ol><li>Unit 13 :<ol type=1><li>Sequence To Sequence Methods</li><li>Connectionist Temporal Classification (CTC)</li></li></ol><li>Unit 14 : <ol type=1><li>Sequence-to-sequence models</li><li>Attention models, examples from speech and language</li></li></ol><li>Unit 15 : <ol type=1><li>What to networks represent</li><li>Autoencoders and dimensionality reduction</li><li>Learning representations</li></li></ol><li>Unit : 16 <ol type=1><li>Variational Autoencoders (VAEs)</li></li></ol><li>Unit : 17 <ol type=1><li>Generative Adversarial Networks (GANs) Part 1</li></li></ol><li>Unit : 18 <ol type=1><li>Generative Adversarial Networks (GANs) Part 2</li>"
+    ],
+    "short_description": "This course covers Convolutional Neural Network, Recurrent Neural Network, Transfer Learning, LSTM, Bidirectional LSTM, Multitask Learning, One Shot Learning, Deep Learning from Problem Solving.s<br><b>Projects Covered in the Course.</b><br>Attention Models and End to End Language Modelling, Spam Detector, Tracking suspicious movement for Security, Q & A Systems, Conversational Systems.",
+    "image": "core_deep_learning.png",
+    "instructors": [{
+        "name": "Vijay Gabale",
+        "profile_url": "http://innosential.com/vijay-gabale",
+        "image": "vijay.jpg"
+    }, {
+        "name": "Ajit Jaokar",
+        "profile_url": "http://innosential.com/ajit-jaokar",
+        "image": "Ajit.jpg"
+    }, {
+        "name": "Pratinbha Moongi",
+        "profile_url": "http://innosential.com/pratibha-moogi",
+        "image": "pratibha.jpg"
+    }],
+    "title": "Course III: Core Deep Learning",
+    "units": [{
+            "activities": [
+                "Lecture 9 Convolutional Neural Networks(Part-2)",
+                "Assignment"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "instructors": [
+                "Vijay Gabale"
+            ],
+            "title": "Deep Neural Networks Convolutional Networks II"
+        },
+        {
+            "activities": [
+                "Lecture 9 Conolutional Neural Networks(Part-2)"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "instructors": [
+                "Joy Mustafi"
+            ],
+            "title": "Deep Learning Recurrent Networks"
+        },
+        {
+            "activities": [
+                "Lecture 10 Recurrent Neural Networks RNN Part-1",
+                "Assignment"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "instructors": [
+                "Joy Mustafi"
+            ],
+            "title": "Deep Learning Recurrent Networks (Stability analysis and LSTMs)"
+        },
+        {
+            "activities": [
+                "Lecture 13 Recurrent Neural Networks RNN Part-3"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "instructors": [
+                "Joy Mustafi"
+            ],
+            "title": "Deep Learning Recurrent Networks Part 3"
+        },
+        {
+            "activities": [
+                "Lecture 14: Connectionist Temporal Classification CTC",
+                "Assignment"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "instructors": [
+                "Joy Mustafi",
+                "Ajit Jaokar"
+            ],
+            "title": "Deep Learning Sequence to Sequence models (Connectionist Temporal Classification)"
+        },
+        {
+            "activities": [
+                "Sequence to Sequence models (Attention Models)",
+                "Assignment"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "instructors": [
+                "Joy Mustafi",
+                "Jitendra Vepa"
+            ],
+            "title": "Deep Learning Sequence to Sequence models (Attention Models)"
+        },
+        {
+            "activities": [
+                "Lecture 15: Representation Learning"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "instructors": [
+                "Jitendra Vepa"
+            ],
+            "title": "Neural Networks Representations"
+        },
+        {
+            "activities": [
+                "Lecture 15: Representation Learning",
+                "Assignment"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "instructors": [
+                "Vijay Gabale"
+            ],
+            "title": "Deep Learning Vulnerabilities, Defenses and Beyond"
+        }
+    ]
+}

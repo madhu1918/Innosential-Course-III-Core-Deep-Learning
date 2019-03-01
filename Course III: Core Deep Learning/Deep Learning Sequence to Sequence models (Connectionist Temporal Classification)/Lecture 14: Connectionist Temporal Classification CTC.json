@@ -1,0 +1,13 @@
+[
+	{
+		"title":"Lecture 14: Connectionist Temporal Classification CTC",
+		"activityType":"youtubevideo",
+		"videoURL":"fUGLQ5WvQ9c",
+		"videoResources" : ["lec12.2.recurrent.pdf", "lec12.recurrent.pdf"]
+	},
+	{
+		"title":"Discussion forum",
+		"activityType":"discussion",
+		"URL":"piazza.com"
+	}
+]
